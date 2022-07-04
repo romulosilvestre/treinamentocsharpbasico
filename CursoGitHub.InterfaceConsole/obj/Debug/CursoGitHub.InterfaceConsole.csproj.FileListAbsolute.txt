@@ -1,0 +1,8 @@
+C:\Users\Professor\source\repos\CursoGitHub\CursoGitHub.InterfaceConsole\bin\Debug\CursoGitHub.InterfaceConsole.exe.config
+C:\Users\Professor\source\repos\CursoGitHub\CursoGitHub.InterfaceConsole\bin\Debug\CursoGitHub.InterfaceConsole.exe
+C:\Users\Professor\source\repos\CursoGitHub\CursoGitHub.InterfaceConsole\bin\Debug\CursoGitHub.InterfaceConsole.pdb
+C:\Users\Professor\source\repos\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.csproj.AssemblyReference.cache
+C:\Users\Professor\source\repos\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professor\source\repos\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.exe
+C:\Users\Professor\source\repos\CursoGitHub\CursoGitHub.InterfaceConsole\obj\Debug\CursoGitHub.InterfaceConsole.pdb
